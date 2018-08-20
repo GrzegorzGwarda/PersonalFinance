@@ -1,0 +1,11 @@
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\bin\Debug\PersonalFinance.Tests.dll
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\bin\Debug\PersonalFinance.Tests.pdb
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\bin\Debug\PersonalFinance.Core.dll
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\bin\Debug\PersonalFinance.Infrastructure.dll
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\bin\Debug\PersonalFinance.Core.pdb
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\bin\Debug\PersonalFinance.Infrastructure.pdb
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\obj\Debug\PersonalFinance.Tests.csprojAssemblyReference.cache
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\obj\Debug\PersonalFinance.Tests.csproj.CoreCompileInputs.cache
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\obj\Debug\PersonalFinance.Tests.csproj.CopyComplete
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\obj\Debug\PersonalFinance.Tests.dll
+C:\Users\grzegorz.gwarda\Desktop\Programowanie\ASP NET MVC\PersonalFinance\PersonalFinance.Tests\obj\Debug\PersonalFinance.Tests.pdb
