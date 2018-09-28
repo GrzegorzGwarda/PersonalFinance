@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PersonalFinance.App_Start;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,6 +14,7 @@ namespace PersonalFinance
     {
         protected void Application_Start()
         {
+            AutoFacConfigurate.ConfigureContainer();
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
